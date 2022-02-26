@@ -1,7 +1,72 @@
-"budget": {
-  "gas": ,
-  "grocery": ,
-  "entertainment": ,
-  "mortgage": ,
-  ""
+{
+  "users": [
+    {
+      "userName": "eillig",
+      "firstName": "Eric",
+      "monthlyBudget": [
+        {
+          "name": "gas",
+          "sub": "transportation",
+          "amt": 100
+        },
+        {
+          "name": "grocery",
+          "sub": "",
+          "amt": 200
+        },
+        {
+          "name": "entertainment",
+          "sub": "entertainment",
+          "amt": 180
+        },
+        {
+          "name": "mortgage",
+          "sub": "rent",
+          "amt": 1500
+        },
+        {
+          "name": "toiletries",
+          "sub": "",
+          "amt": 100
+        },
+        {
+          "name": "medical",
+          "sub": "",
+          "amt": 120
+        }
+      ],
+      "monthlySpend": [
+        {
+          "name": "gas",
+          "sub": "transportation",
+          "amt": 234
+        },
+        {
+          "name": "grocery",
+          "sub": "",
+          "amt": 71
+        },
+        {
+          "name": "entertainment",
+          "sub": "entertainment",
+          "amt": 53
+        },
+        {
+          "name": "mortgage",
+          "sub": "rent",
+          "amt": 1611
+        },
+        {
+          "name": "toiletries",
+          "sub": "",
+          "amt": 47
+        },
+        {
+          "name": "medical",
+          "sub": "",
+          "amt": 8
+        }
+      ]
+    }
+  ]
 }
